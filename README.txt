@@ -1,1 +1,1 @@
-La Manza Lola - sito GitHub Pages. Per aggiornare il sito già pubblicato sostituisci solo index.html nella cartella principale del repository. Instagram e WhatsApp sono collocati prima della fantasia muccata.
+La Manza Lola — aggiornamento GitHub Pages. Per aggiornare il sito online sostituisci solo index.html nel repository. La galleria è predisposta ma non contiene ancora foto.
